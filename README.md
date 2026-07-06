@@ -30,6 +30,15 @@ source .venv/bin/activate
 pip install -r requirements.txt
 streamlit run app/app.py
 ```
+## Related Projects
+
+This demo follows the evaluation and launch process defined in:
+
+- AI Product Playbook
+
+Quality evaluation can be performed using:
+
+- AI Evaluation Workbench
 
 ## Disclaimer
 Personal portfolio project using synthetic data only. Not affiliated with or representative of any employer.
